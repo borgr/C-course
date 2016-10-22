@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "/cs/stud/borgr/safe/c/sublimeProjects/masterMind"
+		}
+	],
+	"settings":
+	{
+		"sublimegdb_commandline": "gdb -nx -readnow -fullname --interpreter=mi -args ./mastermindplay.mn 3 z",
+		"sublimegdb_workingdir": "/cs/stud/borgr/safe/c/sublimeProjects/masterMind"
+	}
+}

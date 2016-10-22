@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getLast"
+			],
+			[
+				"getl",
+				"getLength"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ge",
+				"generateAnswer"
+			],
+			[
+				"is",
+				"isInt"
+			],
+			[
+				"A",
+				"ASSERT_PRINT"
+			],
+			[
+				"C",
+				"CHARS_OUT"
+			],
+			[
+				"ga",
+				"Game"
+			],
+			[
+				"M",
+				"MasterMindPlay"
+			],
+			[
+				"W",
+				"Wvla"
+			],
+			[
+				"Ma",
+				"MasterMindGame"
+			],
+			[
+				"assig",
+				"assignDefaults"
+			],
+			[
+				"las",
+				"lastChar"
+			],
+			[
+				"DEF_",
+				"DEF_LENGTH"
+			],
+			[
+				"l",
+				"lastChar"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"S",
+				"SAFE_FREE"
+			],
+			[
+				"suduku",
+				"sudukutree"
+			],
+			[
+				"sud",
+				"sudukutree"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"sol",
+				"solved"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"max",
+				"maxVal"
+			],
+			[
+				"ASS",
+				"assertPrint"
+			],
+			[
+				"Tr",
+				"TRUE"
+			],
+			[
+				"col",
+				"colVals"
+			],
+			[
+				"row",
+				"rowVals"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"ass",
+				"ASSERT_NOTIFY"
+			],
+			[
+				"sub",
+				"subc"
+			],
+			[
+				"g",
+				"getSubsolutions"
+			],
+			[
+				"subs",
+				"getSubsolutions"
+			],
+			[
+				"EX",
+				"EXIT_SUCCESS"
+			],
+			[
+				"T",
+				"TRUE"
+			],
+			[
+				"E",
+				"EXIT_SUCCESS"
+			],
+			[
+				"F",
+				"FORMAT_ERROR"
+			],
+			[
+				"current",
+				"currentVal"
+			],
+			[
+				"curre",
+				"currentVal"
+			],
+			[
+				"m",
+				"maxVal"
+			],
+			[
+				"game",
+				"game"
+			],
+			[
+				"up",
+				"updateCell"
+			],
+			[
+				"fre",
+				"freeGame"
+			],
+			[
+				"cu",
+				"currentNum"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"curr",
+				"currentNum"
+			],
+			[
+				"cur",
+				"currentNum"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"resu",
+				"resultc"
+			],
+			[
+				"sons",
+				"sonsNum"
+			],
+			[
+				"son",
+				"sonsNum"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"Ar",
+				"ARG_NUM"
+			],
+			[
+				"d",
+				"dealWithOpening"
+			],
+			[
+				"deal",
+				"dealWithClosing"
+			],
+			[
+				"mo",
+				"moreItems"
+			],
+			[
+				"item",
+				"itemsNow"
+			],
+			[
+				"ad",
+				"additionalDb"
+			],
+			[
+				"addit",
+				"additionalDb"
+			],
+			[
+				"L",
+				"MAX_LINES"
+			],
+			[
+				"sort",
+				"itemsSort"
+			],
+			[
+				"ite",
+				"itemsNow"
+			],
+			[
+				"items",
+				"itemsNow"
+			],
+			[
+				"more",
+				"moreItems"
+			],
+			[
+				"sen",
+				"sentCurrent"
+			],
+			[
+				"low",
+				"lowestPlace"
+			],
+			[
+				"add",
+				"additionalItemc"
+			],
+			[
+				"COMM",
+				"COMMAND_PARAM"
+			],
+			[
+				"asser",
+				"assertNotify"
+			],
+			[
+				"s",
+				"seperator"
+			],
+			[
+				"tree",
+				"AvlTree"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/untitled.sublime-project",
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/Game.h",
+			"settings":
+			{
+				"buffer_size": 2333,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp",
+			"settings":
+			{
+				"buffer_size": 4257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/makefile",
+			"settings":
+			{
+				"buffer_size": 1048,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/asserts.h",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "576-gdb-show interpreter\n=thread-group-added,id=\"i1\"\n~\"GNU gdb (Debian 7.7.1+dfsg-3) 7.7.1\\n\"\n~\"Copyright (C) 2014 Free Software Foundation, Inc.\\n\"\n~\"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\\nThis is free software: you are free to change and redistribute it.\\nThere is NO WARRANTY, to the extent permitted by law.  Type \\\"show copying\\\"\\nand \\\"show warranty\\\" for details.\\n\"\n~\"This GDB was configured as \\\"x86_64-linux-gnu\\\".\\nType \\\"show configuration\\\" for configuration details.\"\n~\"\\nFor bug reporting instructions, please see:\\n\"\n~\"<http://www.gnu.org/software/gdb/bugs/>.\\n\"\n~\"Find the GDB manual and other documentation resources online at:\\n<http://www.gnu.org/software/gdb/documentation/>.\\n\"\n~\"For help, type \\\"help\\\".\\n\"\n~\"Type \\\"apropos word\\\" to search for commands related to \\\"word\\\"...\\n\"\n~\"Reading symbols from ./mastermindplay.mn...\"\n~\"expanding to full symbols...\"\n~\"done.\\n\"\n(gdb)\n576^error,msg=\"Undefined show command: \\\"interpreter\\\".  Try \\\"help show\\\".\"\n(gdb)\n577-inferior-tty-set /tmp/tmp9VMNDD\n577^done\n(gdb)\n578-gdb-set target-async 1\n579-gdb-set pagination off\n578^done\n580-gdb-set disassembly-flavor intel\n(gdb)\n581-break-insert \"\\\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\\\":128\"\n579^done\n(gdb)\n580^done\n(gdb)\n581^done,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x00000000004014aa\",func=\"parseArgs(unsigned int, char**)\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:128\"}\n(gdb)\n582-break-insert \"\\\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\\\":185\"\n582^done,bkpt={number=\"2\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000000000040173d\",func=\"generateAnswer(Game const&)\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:185\"}\n(gdb)\n583-break-insert \"\\\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\\\":221\"\n583^done,bkpt={number=\"3\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000000000040196d\",func=\"main(int, char**)\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"221\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:221\"}\n(gdb)\n584-break-insert \"\\\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\\\":16\"\n584^done,bkpt={number=\"4\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x0000000000401b5f\",func=\"randomChar(char)\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\",thread-groups=[\"i1\"],times=\"0\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h:16\"}\n(gdb)\n585-exec-run\n=thread-group-started,id=\"i1\",pid=\"18009\"\n=thread-created,id=\"1\",group-id=\"i1\"\n585^running\n*running,thread-id=\"all\"\n=library-loaded,id=\"/lib64/ld-linux-x86-64.so.2\",target-name=\"/lib64/ld-linux-x86-64.so.2\",host-name=\"/lib64/ld-linux-x86-64.so.2\",symbols-loaded=\"0\",thread-group=\"i1\"\n(gdb)\n=library-loaded,id=\"linux-vdso.so.1\",target-name=\"linux-vdso.so.1\",host-name=\"linux-vdso.so.1\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/usr/lib/x86_64-linux-gnu/libstdc++.so.6\",target-name=\"/usr/lib/x86_64-linux-gnu/libstdc++.so.6\",host-name=\"/usr/lib/x86_64-linux-gnu/libstdc++.so.6\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libm.so.6\",target-name=\"/lib/x86_64-linux-gnu/libm.so.6\",host-name=\"/lib/x86_64-linux-gnu/libm.so.6\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",target-name=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",host-name=\"/lib/x86_64-linux-gnu/libgcc_s.so.1\",symbols-loaded=\"0\",thread-group=\"i1\"\n=library-loaded,id=\"/lib/x86_64-linux-gnu/libc.so.6\",target-name=\"/lib/x86_64-linux-gnu/libc.so.6\",host-name=\"/lib/x86_64-linux-gnu/libc.so.6\",symbols-loaded=\"0\",thread-group=\"i1\"\n=breakpoint-modified,bkpt={number=\"1\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x00000000004014aa\",func=\"parseArgs(unsigned int, char**)\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\",thread-groups=[\"i1\"],times=\"1\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:128\"}\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"1\",frame={addr=\"0x00000000004014aa\",func=\"parseArgs\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\"},thread-id=\"1\",stopped-threads=\"all\",core=\"5\"\n586-thread-select 1\n587-stack-info-frame\n586^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x00000000004014aa\",func=\"parseArgs\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\"}\n(gdb)\n587^done,frame={level=\"0\",addr=\"0x00000000004014aa\",func=\"parseArgs\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\"}\n(gdb)\n588-stack-list-frames\n588^done,stack=[frame={level=\"0\",addr=\"0x00000000004014aa\",func=\"parseArgs\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\"},frame={level=\"1\",addr=\"0x000000000040192b\",func=\"main\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"213\"}]\n(gdb)\n589-stack-list-arguments 1\n589^done,stack-args=[frame={level=\"0\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}]},frame={level=\"1\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}]}]\n(gdb)\n590-thread-info\n590^done,threads=[{id=\"1\",target-id=\"process 18009\",name=\"mastermindplay.\",frame={level=\"0\",addr=\"0x00000000004014aa\",func=\"parseArgs\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"128\"},state=\"stopped\",core=\"5\"}],current-thread-id=\"1\"\n(gdb)\n591-thread-list-ids\n591^done,thread-ids={thread-id=\"1\"},current-thread-id=\"1\",number-of-threads=\"1\"\n(gdb)\n592-var-delete var12\n593-var-delete var13\n594-var-delete var14\n592^error,msg=\"Variable object not found\"\n595-var-delete var15\n(gdb)\n596-stack-list-arguments 0 0 0\n593^error,msg=\"Variable object not found\"\n(gdb)\n594^error,msg=\"Variable object not found\"\n(gdb)\n595^error,msg=\"Variable object not found\"\n(gdb)\n596^done,stack-args=[frame={level=\"0\",args=[name=\"argc\",name=\"argv\"]}]\n(gdb)\n597-var-create - * argc\n597^done,name=\"var1\",numchild=\"0\",value=\"3\",type=\"unsigned int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n598-var-create - * argv\n598^done,name=\"var2\",numchild=\"1\",value=\"0x7fffffffe698\",type=\"char **\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n599-stack-list-locals 0\n599^done,locals=[name=\"length\",name=\"last\",name=\"i\"]\n(gdb)\n600-var-create - * length\n600^done,name=\"var3\",numchild=\"0\",value=\"0\",type=\"int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n601-var-create - * last\n601^done,name=\"var4\",numchild=\"0\",value=\"0 '\\\\000'\",type=\"char\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n602-var-create - * i\n602^done,name=\"var5\",numchild=\"0\",value=\"1\",type=\"unsigned int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n603-exec-continue\n603^running\n*running,thread-id=\"1\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"2\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000000000040173d\",func=\"generateAnswer(Game const&)\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\",thread-groups=[\"i1\"],times=\"1\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:185\"}\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"2\",frame={addr=\"0x000000000040173d\",func=\"generateAnswer\",args=[{name=\"game\",value=\"...\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\"},thread-id=\"1\",stopped-threads=\"all\",core=\"5\"\n604-thread-select 1\n605-stack-info-frame\n604^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000000000040173d\",func=\"generateAnswer\",args=[{name=\"game\",value=\"...\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\"}\n(gdb)\n605^done,frame={level=\"0\",addr=\"0x000000000040173d\",func=\"generateAnswer\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\"}\n(gdb)\n606-stack-list-frames\n606^done,stack=[frame={level=\"0\",addr=\"0x000000000040173d\",func=\"generateAnswer\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\"},frame={level=\"1\",addr=\"0x0000000000401846\",func=\"Game::check\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"200\"},frame={level=\"2\",addr=\"0x0000000000401afb\",func=\"Game::turn\",file=\"Game.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/Game.h\",line=\"113\"},frame={level=\"3\",addr=\"0x0000000000401966\",func=\"main\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"219\"}]\n(gdb)\n607-stack-list-arguments 1\n607^done,stack-args=[frame={level=\"0\",args=[{name=\"game\",value=\"@0x603040: {_turns = 1, _length = 2, _lastChar = 98 'b'}\"}]},frame={level=\"1\",args=[{name=\"this\",value=\"0x603040\"},{name=\"guess\",value=\"\\\"\\\"\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x603040\"}]},frame={level=\"3\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}]}]\n(gdb)\n608-thread-info\n608^done,threads=[{id=\"1\",target-id=\"process 18009\",name=\"mastermindplay.\",frame={level=\"0\",addr=\"0x000000000040173d\",func=\"generateAnswer\",args=[{name=\"game\",value=\"...\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"185\"},state=\"stopped\",core=\"5\"}],current-thread-id=\"1\"\n(gdb)\n609-thread-list-ids\n609^done,thread-ids={thread-id=\"1\"},current-thread-id=\"1\",number-of-threads=\"1\"\n(gdb)\n610-var-delete var1\n611-var-delete var2\n610^done,ndeleted=\"1\"\n612-var-delete var3\n(gdb)\n613-var-delete var4\n611^done,ndeleted=\"1\"\n614-var-delete var5\n(gdb)\n615-stack-list-arguments 0 0 0\n612^done,ndeleted=\"1\"\n(gdb)\n613^done,ndeleted=\"1\"\n(gdb)\n614^done,ndeleted=\"1\"\n(gdb)\n615^done,stack-args=[frame={level=\"0\",args=[name=\"game\"]}]\n(gdb)\n616-var-create - * game\n616^done,name=\"var6\",numchild=\"1\",value=\"{...}\",type=\"const Game &\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n617-stack-list-locals 0\n617^done,locals=[name=\"result\",name=\"i\"]\n(gdb)\n618-var-create - * result\n618^done,name=\"var7\",numchild=\"2\",value=\"{...}\",type=\"std::string\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n619-var-create - * i\n619^done,name=\"var8\",numchild=\"0\",value=\"32767\",type=\"unsigned int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n620-exec-continue\n620^running\n*running,thread-id=\"1\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"4\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x0000000000401b5f\",func=\"randomChar(char)\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\",thread-groups=[\"i1\"],times=\"1\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h:16\"}\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"4\",frame={addr=\"0x0000000000401b5f\",func=\"randomChar\",args=[{name=\"C\",value=\"98 'b'\"}],file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"},thread-id=\"1\",stopped-threads=\"all\",core=\"5\"\n621-thread-select 1\n622-stack-info-frame\n621^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",args=[{name=\"C\",value=\"98 'b'\"}],file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"}\n(gdb)\n622^done,frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"}\n(gdb)\n623-stack-list-frames\n623^done,stack=[frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"},frame={level=\"1\",addr=\"0x000000000040178c\",func=\"generateAnswer\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"189\"},frame={level=\"2\",addr=\"0x0000000000401846\",func=\"Game::check\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"200\"},frame={level=\"3\",addr=\"0x0000000000401afb\",func=\"Game::turn\",file=\"Game.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/Game.h\",line=\"113\"},frame={level=\"4\",addr=\"0x0000000000401966\",func=\"main\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"219\"}]\n(gdb)\n624-stack-list-arguments 1\n624^done,stack-args=[frame={level=\"0\",args=[{name=\"C\",value=\"98 'b'\"}]},frame={level=\"1\",args=[{name=\"game\",value=\"@0x603040: {_turns = 1, _length = 2, _lastChar = 98 'b'}\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x603040\"},{name=\"guess\",value=\"\\\"\\\"\"}]},frame={level=\"3\",args=[{name=\"this\",value=\"0x603040\"}]},frame={level=\"4\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}]}]\n(gdb)\n625-thread-info\n625^done,threads=[{id=\"1\",target-id=\"process 18009\",name=\"mastermindplay.\",frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",args=[{name=\"C\",value=\"98 'b'\"}],file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"},state=\"stopped\",core=\"5\"}],current-thread-id=\"1\"\n(gdb)\n626-thread-list-ids\n626^done,thread-ids={thread-id=\"1\"},current-thread-id=\"1\",number-of-threads=\"1\"\n(gdb)\n627-var-delete var6\n628-var-delete var7\n627^done,ndeleted=\"1\"\n629-var-delete var8\n(gdb)\n630-stack-list-arguments 0 0 0\n628^done,ndeleted=\"1\"\n(gdb)\n629^done,ndeleted=\"1\"\n(gdb)\n630^done,stack-args=[frame={level=\"0\",args=[name=\"C\"]}]\n(gdb)\n631-var-create - * C\n631^done,name=\"var9\",numchild=\"0\",value=\"98 'b'\",type=\"char\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n632-stack-list-locals 0\n632^done,locals=[name=\"mod\",name=\"character\"]\n(gdb)\n633-var-create - * mod\n633^done,name=\"var10\",numchild=\"0\",value=\"0\",type=\"int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n634-var-create - * character\n634^done,name=\"var11\",numchild=\"0\",value=\"0 '\\\\000'\",type=\"char\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n635-exec-continue\n635^running\n*running,thread-id=\"1\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"4\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x0000000000401b5f\",func=\"randomChar(char)\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\",thread-groups=[\"i1\"],times=\"2\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h:16\"}\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"4\",frame={addr=\"0x0000000000401b5f\",func=\"randomChar\",args=[{name=\"C\",value=\"98 'b'\"}],file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"},thread-id=\"1\",stopped-threads=\"all\",core=\"5\"\n636-thread-select 1\n637-stack-info-frame\n636^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",args=[{name=\"C\",value=\"98 'b'\"}],file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"}\n(gdb)\n637^done,frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"}\n(gdb)\n638-stack-list-frames\n638^done,stack=[frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"},frame={level=\"1\",addr=\"0x000000000040178c\",func=\"generateAnswer\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"189\"},frame={level=\"2\",addr=\"0x0000000000401846\",func=\"Game::check\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"200\"},frame={level=\"3\",addr=\"0x0000000000401afb\",func=\"Game::turn\",file=\"Game.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/Game.h\",line=\"113\"},frame={level=\"4\",addr=\"0x0000000000401966\",func=\"main\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"219\"}]\n(gdb)\n639-stack-list-arguments 1\n639^done,stack-args=[frame={level=\"0\",args=[{name=\"C\",value=\"98 'b'\"}]},frame={level=\"1\",args=[{name=\"game\",value=\"@0x603040: {_turns = 1, _length = 2, _lastChar = 98 'b'}\"}]},frame={level=\"2\",args=[{name=\"this\",value=\"0x603040\"},{name=\"guess\",value=\"\\\"\\\"\"}]},frame={level=\"3\",args=[{name=\"this\",value=\"0x603040\"}]},frame={level=\"4\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}]}]\n(gdb)\n640-thread-info\n640^done,threads=[{id=\"1\",target-id=\"process 18009\",name=\"mastermindplay.\",frame={level=\"0\",addr=\"0x0000000000401b5f\",func=\"randomChar\",args=[{name=\"C\",value=\"98 'b'\"}],file=\"erand.h\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h\",line=\"16\"},state=\"stopped\",core=\"5\"}],current-thread-id=\"1\"\n(gdb)\n641-thread-list-ids\n641^done,thread-ids={thread-id=\"1\"},current-thread-id=\"1\",number-of-threads=\"1\"\n(gdb)\n642-var-update --all-values *\n642^done,changelist=[]\n(gdb)\n643-stack-list-locals 0\n643^done,locals=[name=\"mod\",name=\"character\"]\n(gdb)\n644-exec-continue\n644^running\n*running,thread-id=\"1\"\n(gdb)\n=breakpoint-modified,bkpt={number=\"3\",type=\"breakpoint\",disp=\"keep\",enabled=\"y\",addr=\"0x000000000040196d\",func=\"main(int, char**)\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"221\",thread-groups=[\"i1\"],times=\"1\",original-location=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:221\"}\n*stopped,reason=\"breakpoint-hit\",disp=\"keep\",bkptno=\"3\",frame={addr=\"0x000000000040196d\",func=\"main\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"222\"},thread-id=\"1\",stopped-threads=\"all\",core=\"5\"\n645-thread-select 1\n646-stack-info-frame\n645^done,new-thread-id=\"1\",frame={level=\"0\",addr=\"0x000000000040196d\",func=\"main\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"222\"}\n(gdb)\n646^done,frame={level=\"0\",addr=\"0x000000000040196d\",func=\"main\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"222\"}\n(gdb)\n647-stack-list-frames\n647^done,stack=[frame={level=\"0\",addr=\"0x000000000040196d\",func=\"main\",file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"222\"}]\n(gdb)\n648-stack-list-arguments 1\n648^done,stack-args=[frame={level=\"0\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}]}]\n(gdb)\n649-thread-info\n649^done,threads=[{id=\"1\",target-id=\"process 18009\",name=\"mastermindplay.\",frame={level=\"0\",addr=\"0x000000000040196d\",func=\"main\",args=[{name=\"argc\",value=\"3\"},{name=\"argv\",value=\"0x7fffffffe698\"}],file=\"MasterMindPlay.cpp\",fullname=\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp\",line=\"222\"},state=\"stopped\",core=\"5\"}],current-thread-id=\"1\"\n(gdb)\n650-thread-list-ids\n650^done,thread-ids={thread-id=\"1\"},current-thread-id=\"1\",number-of-threads=\"1\"\n(gdb)\n651-var-delete var9\n652-var-delete var10\n651^done,ndeleted=\"1\"\n653-var-delete var11\n(gdb)\n654-stack-list-arguments 0 0 0\n652^done,ndeleted=\"1\"\n(gdb)\n653^done,ndeleted=\"1\"\n(gdb)\n654^done,stack-args=[frame={level=\"0\",args=[name=\"argc\",name=\"argv\"]}]\n(gdb)\n655-var-create - * argc\n655^done,name=\"var12\",numchild=\"0\",value=\"3\",type=\"int\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n656-var-create - * argv\n656^done,name=\"var13\",numchild=\"1\",value=\"0x7fffffffe698\",type=\"char **\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n657-stack-list-locals 0\n657^done,locals=[name=\"__PRETTY_FUNCTION__\",name=\"game\"]\n(gdb)\n658-var-create - * __PRETTY_FUNCTION__\n658^done,name=\"var14\",numchild=\"22\",value=\"[22]\",type=\"const char [22]\",has_more=\"0\"\n(gdb)\n659-var-create - * game\n659^done,name=\"var15\",numchild=\"1\",value=\"0x603040\",type=\"Game *\",thread-id=\"1\",has_more=\"0\"\n(gdb)\n660-var-list-children 1 \"var13\"\n660^done,numchild=\"1\",children=[child={name=\"var13.*argv\",exp=\"*argv\",numchild=\"1\",value=\"0x7fffffffe99b \\\"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/mastermindplay.mn\\\"\",type=\"char *\",thread-id=\"1\"}],has_more=\"0\"\n(gdb)\n661-var-list-children 1 \"var13.*argv\"\n661^done,numchild=\"1\",children=[child={name=\"var13.*argv.**argv\",exp=\"**argv\",numchild=\"0\",value=\"47 '/'\",type=\"char\",thread-id=\"1\"}],has_more=\"0\"\n(gdb)\n662print argv[2]\n&\"print argv[2]\\n\"\n~\"$1 = 0x7fffffffe9ee \\\"b\\\"\"\n~\"\\n\"\n662^done\n(gdb)\n663print argv[2]\n&\"print argv[2]\\n\"\n~\"$2 = 0x7fffffffe9ee \\\"b\\\"\"\n~\"\\n\"\n663^done\n(gdb)\n",
+			"settings":
+			{
+				"buffer_size": 22183,
+				"line_ending": "Unix",
+				"name": "GDB Session",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "GNU gdb (Debian 7.7.1+dfsg-3) 7.7.1\nCopyright (C) 2014 Free Software Foundation, Inc.\nLicense GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.  Type \"show copying\"\nand \"show warranty\" for details.\nThis GDB was configured as \"x86_64-linux-gnu\".\nType \"show configuration\" for configuration details.\nFor bug reporting instructions, please see:\n<http://www.gnu.org/software/gdb/bugs/>.\nFind the GDB manual and other documentation resources online at:\n<http://www.gnu.org/software/gdb/documentation/>.\nFor help, type \"help\".\nType \"apropos word\" to search for commands related to \"word\"...\nReading symbols from ./mastermindplay.mn...expanding to full symbols...done.\n&\"warning: GDB: Failed to set controlling terminal: Inappropriate ioctl for device\\n\"\nstarting game...\nnew game created b2\nPlease enter a guess of 4 letters between 'a' and 'b'\ngenerated answeraa\n$1 = 0x7fffffffe9ee \"b\"\n$2 = 0x7fffffffe9ee \"b\"\n",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix",
+				"name": "GDB Console",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": " int argc = 3\n-char ** argv = 0x7fffffffe698\n    -char * *argv = 0x7fffffffe99b \"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/mastermindplay.mn\"\n         char **argv = 47 '/'\n+const char [22] __PRETTY_FUNCTION__ = [22]\n+Game * game = 0x603040\n",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Unix",
+				"name": "GDB Variables",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "main(argc = 3,argv = 0x7fffffffe698,);\n",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Unix",
+				"name": "GDB Callstack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "001 -    stopped - main(argc = 3, argv = 0x7fffffffe698);\n",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Unix",
+				"name": "GDB Threads",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "1 - /a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:128\n2 - /a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:185\n3 - /a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp:221\n4 - /a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h:16\n",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Unix",
+				"name": "GDB Breakpoints",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/a/fr-05/vol/prime/stud/borgr/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/untitled.sublime-workspace",
+		"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/genericdfs/genericdfs.c",
+		"/cs/stud/borgr/safe/c/sublimeProjects/genericdfs/Makefile",
+		"/cs/stud/borgr/safe/c/sublimeProjects/genericdfs/genericdfs.c",
+		"/cs/stud/borgr/safe/c/sublimeProjects/genericdfs/sudukusolver.c",
+		"/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/genericdfs/sudukusolver.c",
+		"/cs/stud/borgr/safe/c/waredb/src/waredb.c",
+		"/cs/stud/borgr/safe/c/sublimeProjects/genericdfs/makefile",
+		"/a/fr-05/vol/secondary/stud/borgr/c/waredb/src/ex2.sublime-project",
+		"/cs/stud/borgr/Downloads/waredb.c",
+		"/cs/stud/borgr/Desktop/checkparenthesis.c",
+		"/cs/stud/borgr/Desktop/CheckParenthesis.c",
+		"/cs/stud/borgr/Desktop/waredb.c",
+		"/cs/stud/borgr/safe/c/sublimeProjects/genericdfs/sodukusolver.c",
+		"/cs/stud/borgr/safe/c/sublimeProjects/genericdfs/dfs.sublime-project",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis3.in",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis3.out",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis4.in",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis4.out",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis2.out",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis2.in",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis1.out",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/CheckParenthesis/parenthesis1.in",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/waredb/ware1-received-ware3.db",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/waredb/ware1.db",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/waredb/ware3.db",
+		"/cs/stud/borgr/safe/c/waredb/src/tests/waredb/ware1-recieved-ware2-sent1.db",
+		"/build/glibc-3yzGbK/glibc-2.19/sysdeps/x86_64/strlen.S",
+		"/build/glibc-3yzGbK/glibc-2.19/libio/ioputs.c",
+		"/build/glibc-3yzGbK/glibc-2.19/stdlib/exit.c",
+		"/build/glibc-3yzGbK/glibc-2.19/csu/libc-start.c",
+		"/build/glibc-3yzGbK/glibc-2.19/stdio-common/printf.c",
+		"/a/fr-05/vol/secondary/stud/borgr/c/waredb/src/test.c",
+		"/a/fr-05/vol/secondary/stud/borgr/c/waredb/src/waredb.c",
+		"/a/fr-05/vol/prime/stud/borgr/.config/sublime-text-2/Packages/SublimeGDB/Default.sublime-keymap",
+		"/cs/stud/borgr/safe/c/waredb/src/test.c",
+		"/cs/stud/borgr/Desktop/OUT1",
+		"/cs/stud/borgr/Desktop/ex1_tests/shift/s2.out",
+		"/cs/stud/borgr/Desktop/ex1_tests/shift/s2.in",
+		"/cs/stud/borgr/Desktop/ex1_tests/shift/s3.in",
+		"/cs/stud/borgr/Desktop/ex1_tests/shift/s1.in",
+		"/a/fr-05/vol/prime/stud/borgr/Desktop/shift.c",
+		"/cs/stud/borgr/Desktop/count.c",
+		"/cs/stud/borgr/Desktop/shift.ot",
+		"/cs/stud/borgr/Desktop/tests/IMPORTS = [\"import static org.junit.Assert.*;\", \"i"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"rand",
+			"guess",
+			"TO",
+			"GAM",
+			"GUESS",
+			"  ",
+			"String",
+			"correctArgNum",
+			"OFILE",
+			"C_CREATE",
+			"CFILE",
+			"C",
+			"C_CREATE",
+			"O_CREATE",
+			"ex3.tar",
+			"MasterMindgame",
+			"mastermindgame",
+			"MasterMindSolver",
+			"Play",
+			"Game",
+			"MasterMindPlay",
+			"MasterMind",
+			"TODO",
+			"checkArgs",
+			"log",
+			"allowedInCell",
+			"parse",
+			"size",
+			"ASSERT_PRINT",
+			"assertPrint",
+			"cop",
+			"free",
+			"freeG",
+			"subs",
+			"}\n",
+			"freeG",
+			"SAFE_FREE",
+			"check",
+			"values",
+			"allowedInCell\nallowedInCell",
+			"Subs",
+			"possi",
+			"allow",
+			"asser",
+			"getC",
+			"free",
+			"asser",
+			"print",
+			"free",
+			"chil",
+			"FORMAT_E",
+			"free",
+			"free\nfree",
+			"alloc",
+			"ASSER",
+			"\nallowedInCell\nallowedInCell",
+			"alloc",
+			"\nFORMAT_NOTICE",
+			"FORMAT_NOT",
+			"NO_FILE_NOTICE",
+			"FILE_NOTICE",
+			"NO_FILE",
+			"asser",
+			"result",
+			"189",
+			"FORMAT_ERROR",
+			"\\0",
+			"read",
+			"USA",
+			"scan",
+			"\n/**",
+			"current",
+			"endStack",
+			"stack",
+			"dealWithClosing",
+			"DEAL_WITH_CLOSING",
+			"DEAL_WITH_OPENING",
+			"TODO",
+			"{\n",
+			"DEAL_WITH_CLOSING",
+			"<",
+			"DEAL_WITH_OPENING",
+			"DEAL_WITH_CLOSING",
+			"DEAL_WITH_OPENING",
+			"DEAL_WITH_CLOSING",
+			"print",
+			"amoun",
+			"amo",
+			"ASS",
+			"NDEBUG",
+			"read",
+			"assertNotify",
+			"assertPrint",
+			"getI",
+			"receive",
+			"recei",
+			"revei",
+			"RECIE",
+			"recie",
+			"getIt",
+			"ERROR",
+			"sent",
+			"amoun",
+			"getit",
+			"printI",
+			"clean",
+			"items fou",
+			"}\n",
+			"not_eno",
+			"amountCmp\namountCmp",
+			"amountCmp\n",
+			"itemsSo",
+			"cmp",
+			"additional",
+			"additionalCurrent",
+			"sort",
+			"		\n",
+			"sort",
+			");\n",
+			"arg",
+			")\n",
+			"itemcm",
+			"sort",
+			"clea",
+			"items",
+			"foun",
+			"cmp",
+			"CODE_LENGTH"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"string",
+			"ASSERT_NOTIFY",
+			"ASSERT_PRINT",
+			"RECEI",
+			"recei",
+			"sent",
+			"sentCurrent"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/untitled.sublime-project",
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/Game.h",
+					"settings":
+					{
+						"buffer_size": 2333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								894,
+								894
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 601.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/MasterMindPlay.cpp",
+					"settings":
+					{
+						"buffer_size": 4257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4225,
+								4225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2780.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/erand.h",
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/makefile",
+					"settings":
+					{
+						"buffer_size": 1048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								675,
+								675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/a/fr-05/vol/secondary/stud/borgr/c/sublimeProjects/masterMind/asserts.h",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 22183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22183,
+								22183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeGDB/gdb_session.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1022,
+								1022
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				3,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				2,
+				1,
+				3,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.75,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,5 @@
+README
+I implemented draw from no legal move and resolving check in all ways.
+well explaining how is just explaining all the code...
+I had many little functions so to check if there is a draw I just checked if there is no legal move and no chess
+and to eat the piece that does check or to block it is just to check if it will become without a chess if the move will be done.
